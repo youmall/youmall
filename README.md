@@ -7,7 +7,7 @@ I have honed my skills to master the full integration landscape in an enterprise
 - Event Handlers to synchronize/ingest data in subscriber systems, taking care to design for re-starts of crashed activities.
 - Concurrent processing of Event Handlers, with throttling to scale out dynamically as per configuration
 - Designing processes so that unknowns on timeouts/crashes are sorted out in an automated way.
-- Payments (E.g. SWIFT, IPS, eCommerce, Request To Pay, Bill Payment, Integration will Biller Aggregator)
+- Payments (E.g. ISO 20022, SWIFT, IPS, eCommerce, Request To Pay, Bill Payment, Integration will Biller Aggregator)
 - Designed Tables to support Payment Channel Operators (like Bill Aggregators, Merchant Aggregators), Payment Channels, Trades, PayPoints, and all the commissions and charges that go with it.
 - Designing secure APIs to support UI flows like the ubiquitous capture, submit, confirm, and authorize.
 - Designing of re-usable service functions supporting interfaces.
